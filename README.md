@@ -2,7 +2,7 @@
 
 The following commands (including admin and bot owner) are available in EM :
 
-##Core
+## Core
 
 info            Info on Easy Manager bot
 load            Command which Loads a Module.
@@ -13,11 +13,11 @@ traceback       To send traceback msg to owner
 unload          Command which Unloads a Module.
 uptime          Shows how long bot has been awake
 
-##Help
+## Help
 
 help            Shows help about the bot, a command, or a category
 
-##Tourney
+## Tourney
 
 contact         Links to contact us incase you are interested to host tourneys using Easy Manager Bot
 edit            Edit discord registration for tourney
@@ -44,12 +44,12 @@ tourneyset      Sets guild variables for the server
 ugroup          Find group number for any registered IGL
 uprint          To send the user details in DM
 
-##GuildManager
+## GuildManager
 
 guildmanager    Commands for managing guilds
 leave           Leave the server
 
-##Sample
+## Sample
 
 globalsync      sync
 ping            Check latency of the bot
@@ -61,9 +61,9 @@ embed           Send an embed in the current channel.
 say             Make the bot say something
 
 
-##Subcommands available
+## Subcommands available
 
-###Round subcommands
+### Round subcommands
 
 add 			Add round details
 complete 		To check round completion and update the user database for the next round
@@ -81,7 +81,7 @@ status 			Set the round state
 swap 			To swap teams in round list
 
 
-###Tourney subcommands
+### Tourney subcommands
 
 complete 		To clear server and user database once a tournament is completed
 create 			Create tourney
@@ -93,7 +93,7 @@ init 			To initialise a tournament in the discord server
 ownerdeleteguildtourney Delete a tourney
 status 			Shows the tournament information
 
-###Tourneyset subcommands
+### Tourneyset subcommands
 
 count 			Sets confirmed team count for bot
 discregcount 	Sets discord man count for tourney
@@ -102,12 +102,12 @@ role 			Sets the default role id to give to user upon registartion
 round 			Sets the current round number
 teamchannel 	Sets channel id for bot to log confirmed teams info
 
-###SS subcommands
+### SS subcommands
 
 clear 			Clear SS data of a member
 view 			View SS data of a member
 
-###Point table subcommands
+### Point table subcommands
 
 addgfx 			Add PT GFX images into database under the specified name
 addlogo 		Upload logos for printing in pt file
@@ -121,7 +121,7 @@ sample 			To test point table creation using sample data
 setimage 		Set PT GFX images name for a server
 text 			Create a txt file for the point table
 
-###Premium subcommands
+### Premium subcommands
 
 addtourney 		Add Premium for a server
 check 			Check if the server is premium or not
