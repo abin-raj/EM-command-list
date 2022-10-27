@@ -14,11 +14,11 @@ The following commands (including admin and bot owner) are available in EM :
 * uptime        Shows how long bot has been awake  
 </pre>
 ## Help
-
+<pre>
 * help          Shows help about the bot, a command, or a category  
-
+</pre>
 ## Tourney
-
+<pre>
 * contact           Links to contact us incase you are interested to host tourneys using Easy Manager Bot  
 * edit              Edit discord registration for tourney  
 * feedback          Provide feedback for Easy Manager Bot  
@@ -43,28 +43,28 @@ The following commands (including admin and bot owner) are available in EM :
 * tourneyset        Sets guild variables for the server  
 * ugroup            Find group number for any registered IGL  
 * uprint            To send the user details in DM  
-
+</pre>
 ## GuildManager
-
+<pre>
 * guildmanager     Commands for managing guilds  
 * leave            Leave the server  
-
+</pre>
 ## Sample
-
+<pre>
 * globalsync       sync  
 * ping             Check latency of the bot  
 * sync             sync  
-
+</pre>
 ## Utils
-
+<pre>
 * embed           Send an embed in the current channel.  
 * say             Make the bot say something  
-
+</pre>
 
 ## Subcommands available
 
 ### Round subcommands
-
+<pre>
 * add           Add round details  
 * complete      To check round completion and update the user database for the next round  
 * create        To create groups for the ongoing round  
@@ -79,10 +79,10 @@ The following commands (including admin and bot owner) are available in EM :
 * publishall    To publish the all the group lists.  
 * status        Set the round state  
 * swap          To swap teams in round list  
-
+</pre>
 
 ### Tourney subcommands
-
+<pre>
 * complete      To clear server and user database once a tournament is completed  
 * create        Create tourney  
 * deleteallusertourney    Delete all members registartion data for a tourney  
@@ -92,23 +92,23 @@ The following commands (including admin and bot owner) are available in EM :
 * init          To initialise a tournament in the discord server  
 * ownerdeleteguildtourney  Delete a tourney  
 * status        Shows the tournament information  
-
+</pre>
 ### Tourneyset subcommands
-
+<pre>
 * count         Sets confirmed team count for bot  
 * discregcount  Sets discord man count for tourney  
 * regchannel    Sets channel id for bot to accept registartaion info  
 * role          Sets the default role id to give to user upon registartion  
 * round         Sets the current round number  
 * teamchannel   Sets channel id for bot to log confirmed teams info  
-
+</pre>
 ### SS subcommands
-
+<pre>
 * clear    Clear SS data of a member  
 * view     View SS data of a member  
-
+</pre>
 ### Point table subcommands
-
+<pre>
 * addgfx        Add PT GFX images into database under the specified name  
 * addlogo       Upload logos for printing in pt file  
 * alt           To test point table creation using sample data  
@@ -120,11 +120,11 @@ The following commands (including admin and bot owner) are available in EM :
 * sample        To test point table creation using sample data  
 * setimage      Set PT GFX images name for a server  
 * text          Create a txt file for the point table  
-
+</pre>
 ### Premium subcommands
-
+<pre>
 * addtourney    Add Premium for a server  
 * check         Check if the server is premium or not  
 * listserver    List Premium tourneys in a server  
 * removetourney Remove Premium for a server  
-
+</pre>
