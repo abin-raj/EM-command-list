@@ -3,16 +3,16 @@
 The following commands (including admin and bot owner) are available in EM :
 
 ## Core
-
-* info<pre>          </pre>Info on Easy Manager bot  
-* load<pre>          </pre>Command which Loads a Module  
-* reload<pre>        </pre>Command which Reloads a Module  
-* restart<pre>       </pre>Restart the bot  
-* shutdown<pre>      </pre>Shutdown the bot  
-* traceback<pre>     </pre>To send traceback msg to owner  
-* unload<pre>        </pre>Command which Unloads a Module  
-* uptime<pre>        </pre>Shows how long bot has been awake  
-
+<pre>
+* info          Info on Easy Manager bot  
+* load          Command which Loads a Module  
+* reload        Command which Reloads a Module  
+* restart       Restart the bot  
+* shutdown      Shutdown the bot  
+* traceback     To send traceback msg to owner  
+* unload        Command which Unloads a Module  
+* uptime        Shows how long bot has been awake  
+</pre>
 ## Help
 
 * help          Shows help about the bot, a command, or a category  
