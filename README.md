@@ -1,7 +1,7 @@
 # EM-command-list
 
 The following commands (including admin and bot owner) are available in EM :
-
+<pre>
 ## Core
 
 * info            Info on Easy Manager bot  
@@ -127,4 +127,4 @@ The following commands (including admin and bot owner) are available in EM :
 * check 		Check if the server is premium or not  
 * listserver 	List Premium tourneys in a server  
 * removetourney Remove Premium for a server  
-
+</pre>
